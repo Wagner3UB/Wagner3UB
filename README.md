@@ -2,18 +2,6 @@ Hello World!
 
 ------------
 
-Here is my example code of an *-Tab Swicher-*
-
-*This code uses:
-
-'''''''''''''''
-
-HTML
-
-CSS with Keyframes
-
-JS
-
 I’m interested in be a JR developer to learn learn learn even more!
 
 I’m currently learning JavaScrip ES6+, Typography and SCSS/SASS
