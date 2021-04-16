@@ -16,7 +16,7 @@ I’m looking to collaborate on front-end projects
 *My places:
 '''''''''''
 CodePen:https://codepen.io/Wagner3UB
-GitHub: https://github.com/Wagner3UB/
+GitHub: https://github.com/Wagner3UB
 Linkedin profile: https://www.linkedin.com/in/wagner-trezub/
 Behance: https://www.behance.net/trezub/
 
