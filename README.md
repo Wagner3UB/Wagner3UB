@@ -2,7 +2,7 @@ Hello World!
 
 ------------
 
-I’m interested in be a JR developer to learn learn learn even more!
+I’m interested in being a JR developer to learn learn learn even more!
 
 I’m currently learning JavaScrip ES6+, Typography and SCSS/SASS
 
