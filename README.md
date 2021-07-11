@@ -8,6 +8,9 @@ I’m currently learning JavaScrip ES6+, Typography and SCSS/SASS 🔥🔥
 
 I’m looking to collaborate on front-end projects 🤝
 
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
+
+
 *My places:
 
 '''''''''''<br>
