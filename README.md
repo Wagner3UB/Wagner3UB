@@ -20,17 +20,21 @@ I’m looking to collaborate on front-end projects 🤝<br>
 ### CI/CD<br>
 ![Git](https://img.shields.io/badge/Git-studying-cccccc?style=plastic&labelColor=0000ff&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF)
 
+### CMS<br>
+![WordPress](https://img.shields.io/badge/-Wordpress-21759B?style=plastic&logo=wordpress&logoColor=FFFFFF) 
+![VTex](https://img.shields.io/badge/VTex-Studying-cccccc?style=plastic&labelColor=EF2D5E)
+	
+### And more!<br>
+![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?style=plastic&logo=filezilla&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=FFFFFF) 
+	
 ### Github Stats:<br>
 ![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagner3UB&show_icons=true&theme=radical)<br>
 ### Languages:<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagner3UB&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagner3UB&langs_count=8&theme=radical)](https://github.com/wagner3UB/github-readme-stats)<br>
+	
 ### My personal links:
 
-<a href="https://codepen.io/Wagner3UB">CodePen</a>
-<a href="https://github.com/Wagner3UB">GitHub</a>
-<a href="https://www.linkedin.com/in/wagner-trezub/">Linkedin</a> 
-<a href="https://www.behance.net/trezub/">Behance</a> 
+<a href="https://codepen.io/Wagner3UB">CodePen</a> | <a href="https://github.com/Wagner3UB">GitHub</a> | <a href="https://www.linkedin.com/in/wagner-trezub/">Linkedin</a> | <a href="https://www.behance.net/trezub/">Behance</a> 
 
 <h2>For any questions, please contact me:</h2>
 
