@@ -34,7 +34,7 @@ I’m looking to collaborate on front-end projects 🤝<br>
 	
 ### My personal links:
 
-<a href="https://codepen.io/Wagner3UB">CodePen</a> | <a href="https://github.com/Wagner3UB">GitHub</a> | <a href="https://www.linkedin.com/in/wagner-trezub/">Linkedin</a> | <a href="https://www.behance.net/trezub/">Behance</a> 
+<a href="https://codepen.io/trezub">CodePen</a> | <a href="https://github.com/Wagner3UB">GitHub</a> | <a href="https://www.linkedin.com/in/wagner-trezub/">Linkedin</a> | <a href="https://www.behance.net/trezub/">Behance</a> 
 
 <h2>For any questions, please contact me:</h2>
 
