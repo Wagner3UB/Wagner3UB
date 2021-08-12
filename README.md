@@ -12,7 +12,7 @@ I’m currently learning VTex CMS, JavaScrip ES6+ and SCSS/SASS 🔥🔥<br>
 I’m looking to collaborate on front-end projects 🤝<br>
 
 ### Web Dev Tools<br>
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/JavaScript-Studying-cccccc?style=plastic&labelColor=F7DF1E&logo=javascript&logoColor=FFFFFF) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=FFFFFF) ![JS](https://img.shields.io/badge/JavaScript-Studying-cccccc?style=plastic&labelColor=F7DF1E&logo=javascript&logoColor=FFFFFF) 
 
 ### Web Design tools<br>
 ![photoshop](https://img.shields.io/badge/-PS-31A8FF?style=plastic&logo=adobephotoshop&logoColor=FFFFFF) ![illustrator](https://img.shields.io/badge/-Ai-FF9A00?style=plastic&logo=adobeillustrator&logoColor=FFFFFF) ![Xd](https://img.shields.io/badge/-Xd-FF61F6?style=plastic&logo=adobexd&logoColor=FFFFFF)
