@@ -8,7 +8,7 @@
 **About me:**<br>
 I'm Brasilian current living in Ferrara, Italy<br>
 I’m interested in being a JR developer to learn & learn & learn even more to became a great developer! 🚀<br>
-I’m currently learning VTex CMS, JavaScrip ES6+ and SCSS/SASS 🔥🔥<br>
+I’m currently learning JavaScrip ES6+, VTex CMS and Git/GitHub 🔥🔥<br>
 I’m looking to collaborate on front-end projects 🤝<br>
 
 ### Web Dev Tools<br>
