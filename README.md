@@ -12,7 +12,7 @@ I’m currently learning JavaScrip ES6+, VTex CMS and Git/GitHub 🔥🔥<br>
 I’m looking to collaborate on front-end projects 🤝<br>
 
 ### Web Dev Tools<br>
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=FFFFFF) ![JS](https://img.shields.io/badge/JavaScript-Studying-cccccc?style=plastic&labelColor=F7DF1E&logo=javascript&logoColor=FFFFFF) 
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-LESS-cccccc?style=plastic&labelColor=1572B6&logo=css3&logoColor=FFFFFF)
 
 ### Web Design tools<br>
 ![photoshop](https://img.shields.io/badge/-PS-31A8FF?style=plastic&logo=adobephotoshop&logoColor=FFFFFF) ![illustrator](https://img.shields.io/badge/-Ai-FF9A00?style=plastic&logo=adobeillustrator&logoColor=FFFFFF) ![Xd](https://img.shields.io/badge/-Xd-FF61F6?style=plastic&logo=adobexd&logoColor=FFFFFF)
@@ -24,7 +24,7 @@ I’m looking to collaborate on front-end projects 🤝<br>
 ![WordPress](https://img.shields.io/badge/-Wordpress-21759B?style=plastic&logo=wordpress&logoColor=FFFFFF)
 	
 ### And more!<br>
-![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?style=plastic&logo=filezilla&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=FFFFFF) 
+![GRUNT](https://img.shields.io/badge/Grunt-FAA918?style=plastic&logo=grunt&logoColor=000000) ![GITHUB](https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=ffffff) ![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?style=plastic&logo=filezilla&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=FFFFFF) 
 	
 ### Github Stats:<br>
 ![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagner3UB&show_icons=true&theme=radical)<br>
