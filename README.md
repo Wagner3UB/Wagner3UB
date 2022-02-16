@@ -8,11 +8,14 @@
 **About me:**<br>
 I'm Brasilian current living in Ferrara, Italy<br>
 I’m interested in being a JR developer to learn & learn & learn even more to became a great developer! 🚀<br>
-I’m currently learning JavaScrip ES6+, VTex CMS and Git/GitHub 🔥🔥<br>
+I’m currently learning React, JavaScrip ES6+ and Git/GitHub 🔥🔥<br>
 I’m looking to collaborate on front-end projects 🤝<br>
 
 ### Web Dev Tools<br>
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-LESS-cccccc?style=plastic&labelColor=1572B6&logo=css3&logoColor=FFFFFF)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=FFFFFF) 
+![React](https://img.shields.io/badge/React-Learning-dddddd?style=plastic&labelColor=666666&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/CSS-LESS-cccccc?style=plastic&labelColor=1572B6&logo=css3&logoColor=FFFFFF)
 
 ### Web Design tools<br>
 ![photoshop](https://img.shields.io/badge/-PS-31A8FF?style=plastic&logo=adobephotoshop&logoColor=FFFFFF) ![illustrator](https://img.shields.io/badge/-Ai-FF9A00?style=plastic&logo=adobeillustrator&logoColor=FFFFFF) ![Xd](https://img.shields.io/badge/-Xd-FF61F6?style=plastic&logo=adobexd&logoColor=FFFFFF)
