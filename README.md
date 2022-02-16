@@ -12,7 +12,7 @@ I’m currently learning React, JavaScrip ES6+ and Git/GitHub 🔥🔥<br>
 I’m looking to collaborate on front-end projects 🤝<br>
 
 ### Web Dev Tools<br>
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=FFFFFF) 
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff) 
 ![React](https://img.shields.io/badge/React-Learning-dddddd?style=plastic&labelColor=666666&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-LESS-cccccc?style=plastic&labelColor=1572B6&logo=css3&logoColor=FFFFFF)
