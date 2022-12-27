@@ -22,9 +22,6 @@ I’m looking to collaborate on front-end projects 🤝<br>
 
 ### CI/CD<br>
 ![Git](https://img.shields.io/badge/Git-studying-cccccc?style=plastic&labelColor=0000ff&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF)
-
-### CMS<br>
-![WordPress](https://img.shields.io/badge/-Wordpress-21759B?style=plastic&logo=wordpress&logoColor=FFFFFF)
 	
 ### And more!<br>
 ![GRUNT](https://img.shields.io/badge/Grunt-FAA918?style=plastic&logo=grunt&logoColor=000000) ![GITHUB](https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=ffffff) ![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?style=plastic&logo=filezilla&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=FFFFFF) 
