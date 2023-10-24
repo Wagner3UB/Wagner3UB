@@ -5,14 +5,19 @@
 	
 ### Welcome to my GitHub 👋
 
-**About me:**<br>
-I'm Brasilian current living in Ferrara, Italy<br>
-I’m interested in being a JR developer to learn & learn & learn even more to became a great developer! 🚀<br>
-I’m currently learning React, JavaScrip ES6+ and Git/GitHub 🔥🔥<br>
-I’m looking to collaborate on front-end projects 🤝<br>
+**About me:**
+
+🌍 I'm Brazilian with Italian blood, currently residing in Ferrara, Italy.<br>
+🚀 I'm fascinated by the fusion of humanity and technology, exploring how we can be more connected and authentic in the digital age.<br>
+💻 I'm currently diving deep into React, JavaScript ES6+, Git/GitHub, Plone/Volto, and accessible technologies.<br>
+👥 I'm open to collaboration on a wide range of projects, from front-end to accessible tech and beyond.<br>
+
+Feel free to reach out and connect! Let's create something amazing together. 🌟<br>
+
 
 ### Web Dev Tools<br>
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff) 
+![Plone](https://img.shields.io/badge/PloneCMS-Volto-007db9?style=plastic?style=plastic&labelColor=666666) 
+![JS](https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff) 
 ![React](https://img.shields.io/badge/React-Learning-dddddd?style=plastic&labelColor=666666&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-LESS-cccccc?style=plastic&labelColor=1572B6&logo=css3&logoColor=FFFFFF)
