@@ -2,7 +2,7 @@
 
 <div>
 	
-![Metrics](https://github.com/seu-usuario-aqui/seu-usuario-aqui/blob/master/github-metrics-personal.svg)
+![Metrics](https://github.com/Wagner3UB/Wagner3UB/blob/master/github-metrics-personal.svg)
 	
 ### 👋 Welcome to my GitHub
 
