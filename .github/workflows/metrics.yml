@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Roda todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
+  schedule: [{cron: "0 0 * * *"}] 
+  workflow_dispatch: 
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,32 +14,33 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Wagner3UB
           template: classic
-          # Aqui definimos para ignorar seus repos pessoais e focar nas orgs
           base: header, community
           repositories_affiliations: owner, collaborator, organization_member
           
-          # Foco em Linguagens (incluindo o que você faz no Plone)
+          # Foco em Linguagens (incluindo Plone e Orgs)
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_languages_indepth: yes # Isso faz ele vasculhar commits em outras orgs
+          plugin_languages_indepth: yes 
           
-          # Filtro de Organizações
-          # Isso garante que ele dê destaque para o Plone
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          
-          # Se quiser mostrar contribuições específicas nessas orgs:
+          # Contribuições Notáveis (Plone, Italia, RedTurtle)
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_filter: Plone, italia # Filtra para Plone e repositórios da Itália
+          plugin_notable_filter: Plone, italia, RedTurtle
           
-          # Remove aquele erro do "Habits" e foca no calendário 3D
+          # Calendário 3D
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # Tópicos (Ajustado para funcionar corretamente)
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
           
-          config_timezone: Europe/Rome
-          plugin_topics_mode: icons # ou labels
+          # Conquistas (Removido o filtro restritivo para evitar erro de busca)
           plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+
+          config_timezone: Europe/Rome
