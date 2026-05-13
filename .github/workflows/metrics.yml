@@ -27,10 +27,6 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_indepth: yes
 
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: mastered
-
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
