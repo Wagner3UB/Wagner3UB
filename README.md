@@ -1,19 +1,19 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0072FF&width=600&lines=Hi+there!+I'm+Wagner+👋;Frontend+Developer+%7C+React+%7C+Volto;Accessibility+Enthusiast;Always+learning+new+things!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=A7B18D&vCenter=true&width=620&height=40&lines=Hey+folks!+Wagner+here!;Inclusive+UX+Engineer+%7C+Accessibility+Strategist;React+Developer)](https://git.io/typing-svg)
 
 <div>
-	
-![Metrics](github-metrics.svg)
-	
-### 👋 Welcome to my GitHub
 
-**About me:**<br/>
+**Who am I:**<br/>
 
-🌍 Brazilian with Italian roots, living in Ferrara, Italy.<br/>
-🚀 Passionate about the intersection of humanity and technology, exploring ways to make digital experiences more connected and authentic.<br/>
-💻 Currently diving deep into React, JavaScript ES6+, Git/GitHub, Plone/Volto, and web accessibility.<br/>
+🌍 Italian heart, Brazilian soul. I'm a developer currently living in Ferrara, Italy, where I balance my passion for clean code, plants and the journey of exploring my roots.<br/><br/>
+🚀 I believe technology should be a bridge, not a barrier. I’m constantly looking for that sweet spot where digital experiences feel less like "software" and more like a genuine human connection.<br/><br/>
+💻 My daily craft involves **React** and **JavaScript** with a deep focus on the **Plone/Volto** ecosystem.
+
+> ### The web only works when it works for everyone
+> That is why I am especially committed to Web Accessibility.
+
 👥 Open to collaboration on projects ranging from front-end development to accessibility and innovative tech.<br/>
 
-Let’s connect and build something amazing together! 🌟<br/>
+Let's build something authentic together! 🌟<br/>
 
 ---
 
@@ -58,10 +58,8 @@ Let’s connect and build something amazing together! 🌟<br/>
 - [🔗 Accessibility Experiments](https://github.com/wagner3UB) – Projects focused on accessible web interfaces.<br/>
 
 ---
-
-### 📊 GitHub Stats<br/>
-![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagner3UB&show_icons=true&theme=radical)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagner3UB&layout=compact&theme=radical)<br/>
+### Specialized in Web Accessibility and Volto/Plone ecosystems.
+![Metrics](github-metrics.svg)
 
 ---
 
