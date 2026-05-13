@@ -16,6 +16,7 @@
 Let's build something authentic together! 🌟<br/>
 
 ---
+[![Skills](https://skillicons.dev/icons?i=js,react,ts,git)](https://skillicons.dev)
 
 ### 🚀 Web Dev Tools<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -59,7 +60,9 @@ Let's build something authentic together! 🌟<br/>
 
 ---
 ### Specialized in Web Accessibility and Volto/Plone ecosystems.
-![Metrics](github-metrics.svg)
+![Metrics](github-metrics.svg)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wagner3UB&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Wagner3UB&theme=radical&row=1)
 
 ---
 
