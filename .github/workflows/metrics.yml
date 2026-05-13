@@ -27,20 +27,30 @@ jobs:
           # Contribuições Notáveis (Plone, Italia, RedTurtle)
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_filter: Plone, italia, RedTurtle
-          
-          # Calendário 3D
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
 
           # Tópicos (Ajustado para funcionar corretamente)
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
+
+          # Mostra seu ritmo de trabalho profissional na Itália
+          plugin_habits: yes
+          plugin_habits_from: 200 # Analisa os últimos 200 eventos
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           
           # Conquistas (Removido o filtro restritivo para evitar erro de busca)
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: B
 
+          # Calendário 3D
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
           config_timezone: Europe/Rome
+
+          
