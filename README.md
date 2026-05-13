@@ -2,6 +2,8 @@
 
 <div>
 	
+![Metrics](https://github.com/seu-usuario-aqui/seu-usuario-aqui/blob/master/github-metrics-personal.svg)
+	
 ### 👋 Welcome to my GitHub
 
 **About me:**<br/>
