@@ -41,3 +41,5 @@ jobs:
           
           config_timezone: Europe/Rome
           plugin_topics_mode: icons # ou labels
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
