@@ -2,7 +2,7 @@
 
 <div>
 	
-![Metrics](github-metrics-personal.svg)
+![Metrics](github-metrics.svg)
 	
 ### 👋 Welcome to my GitHub
 
