@@ -29,17 +29,16 @@ jobs:
 
           plugin_topics: yes
           plugin_topics_limit: 15
-          plugin_topics_mode: starred
+          plugin_topics_mode: mastered
 
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
 
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: B
+          plugin_achievements_threshold: C
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
