@@ -12,23 +12,32 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Wagner3UB  # <--- COLOQUE SEU USERNAME
+          user: Wagner3UB
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Rome # Configurado para seu fuso na Itália
-          plugin_lines: yes
+          # Aqui definimos para ignorar seus repos pessoais e focar nas orgs
+          base: header, community
+          repositories_affiliations: owner, collaborator, organization_member
+          
+          # Foco em Linguagens (incluindo o que você faz no Plone)
           plugin_languages: yes
+          plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: B      # Mostra conquistas de nível B para cima
-          plugin_achievements_display: compact  # Estilo mais limpo
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons # ou labels
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes # Isso faz ele vasculhar commits em outras orgs
+          
+          # Filtro de Organizações
+          # Isso garante que ele dê destaque para o Plone
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          
+          # Se quiser mostrar contribuições específicas nessas orgs:
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_filter: Plone, italia # Filtra para Plone e repositórios da Itália
+          
+          # Remove aquele erro do "Habits" e foca no calendário 3D
           plugin_isocalendar: yes
-          plugin_stargazers: yes
+          plugin_isocalendar_duration: half-year
+          
+          config_timezone: Europe/Rome
+          plugin_topics_mode: icons # ou labels
