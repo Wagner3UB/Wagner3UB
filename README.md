@@ -1,5 +1,5 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a90d9&height=180&section=header&text=Wagner%20Trezub&fontSize=42&fontColor=ffffff&fontAlign=15&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Volto%20accessibility%20team%20%7C%20Volto%20Core%20Team%20%7C%20Plone%20Foundation%20member&descSize=16&descAlign=15&descAlignY=58&descColor=b0c4de" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a90d9&height=180&section=header&text=Wagner%20Trezub&fontSize=42&fontColor=ffffff&fontAlign=25&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Volto%20accessibility%20team%20%7C%20Volto%20Core%20Team%20%7C%20Plone%20Foundation%20member&descSize=16&descAlign=25&descAlignY=58&descColor=b0c4de" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=4a90d9&vCenter=true&width=620&height=40&lines=I+build+interfaces.;The+web+only+works+when+it+works+for+everyone.;Volto+Core+Team+%7C+Plone+Foundation+Member.)](https://git.io/typing-svg)
