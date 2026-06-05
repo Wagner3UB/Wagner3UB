@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-label="Wagner Trezub - Front-end Developer">
+  <title>Wagner Trezub</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="180" fill="url(#bg)"/>
+
+  <!-- Wave at bottom -->
+  <path d="M0,140 C150,180 300,110 450,145 C600,180 750,120 900,150 L900,180 L0,180 Z" fill="#4a90d9" opacity="0.3"/>
+  <path d="M0,155 C200,130 400,175 600,150 C750,132 850,160 900,165 L900,180 L0,180 Z" fill="#4a90d9" opacity="0.5"/>
+
+  <!-- Name -->
+  <text x="48" y="78"
+        font-family="Segoe UI,Helvetica Neue,Arial,sans-serif"
+        font-size="48" font-weight="700"
+        fill="#ffffff"
+        letter-spacing="-0.5">Wagner Trezub</text>
+
+  <!-- Description -->
+  <text x="50" y="112"
+        font-family="Segoe UI,Helvetica Neue,Arial,sans-serif"
+        font-size="15" font-weight="400"
+        fill="#b0c4de"
+        letter-spacing="0.3">Front-end Developer · Volto accessibility team · Volto Core Team · Plone Foundation member</text>
+</svg>
