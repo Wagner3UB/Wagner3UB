@@ -97,5 +97,5 @@ Accessibility brought me closer to the people with real necessities inside this 
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2818,100:040d06&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,100:0a1f14&height=100&section=footer" />
 </div>
