@@ -61,8 +61,9 @@ Most tools are built for standard users. I'm not interested in creating barriers
 I'm interested in EVERYBODY.<br/>
 In all of you.
 
-Accessibility brought me closer to the people actually using what I build, and that's the part of this job that keeps me here.
-<p><b>The web only works when it works for everyone.</b></p>
+Accessibility brought me closer to the people with real necessities inside this virtual world, and that's the part of this job that keeps me alive.
+
+**The web only works when it works for everyone.**
 
 <br />
 
