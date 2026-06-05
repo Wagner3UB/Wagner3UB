@@ -91,9 +91,10 @@ Accessibility brought me closer to the people actually using what I build, and t
 
 <div align="center">
   <sub>
-    Brasileiro. Vivo na Itália, trabalho em italiano na empresa e em inglês na comunidade.<br/>
-    Misturo pessoal com profissional e não me arrependo.<br/>
-    Se você chegou até aqui, provavelmente a gente tem algo em comum.
+    Brasileiro. Vivo na Itália por opção.<br/>
+    Misturo pessoal com profissional, 8h de convivência não são para serem jogadas fora. Não me arrependo.<br/>
+    Biólogo de formação, botânico por paixão.<br/>
+    Se você chegou até aqui, provavelmente a gente tem algo em comum e eu gostaria de conhecê-lo/a!
   </sub>
 </div>
 
