@@ -1,78 +1,118 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=A7B18D&vCenter=true&width=620&height=40&lines=Hey+folks!+Wagner+here!;Inclusive+UX+Engineer+%7C+Accessibility+Strategist;React+Developer)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a90d9&height=180&section=header&text=Wagner%20Trezub&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Volto%20Core%20Team%20%7C%20Plone%20Foundation&descSize=16&descAlignY=58&descColor=b0c4de" />
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=4a90d9&vCenter=true&width=620&height=40&lines=I+build+interfaces.;The+web+only+works+when+it+works+for+everyone.;Volto+Core+Team+%7C+Plone+Foundation+Member.)](https://git.io/typing-svg)
+
+<br />
+
+I build interfaces. Front-end developer focused on making the web usable by everyone — not just most people.
+
+My current home is the Volto/Plone ecosystem. I work on the io-Comune theme at RedTurtle, and I'm part of the Volto core team and the Plone Foundation. A few years ago I started pushing accessibility as a real topic inside Volto — not a checklist item, but a design principle. That conversation is still going.
+
+<br />
+
+---
+
+## Community
 
 <div>
+  <a href="https://github.com/RedTurtle">
+    <img src="https://img.shields.io/badge/RedTurtle-Developer-c0392b?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://plone.org/foundation">
+    <img src="https://img.shields.io/badge/Plone_Foundation-Member-003d73?style=for-the-badge&logo=plone&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/plone/volto">
+    <img src="https://img.shields.io/badge/Volto-Core_Team-00b4d8?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/plone/volto">
+    <img src="https://raw.githubusercontent.com/Wagner3UB/Wagner3UB/main/badges/a11y.svg" alt="Volto a11y Team" height="28" />
+  </a>
+</div>
 
-**Who am I:**<br/>
-
-🌍 Italian heart, Brazilian soul. I'm a developer currently living in Ferrara, Italy, where I balance my passion for clean code, plants and the journey of exploring my roots.<br/><br/>
-🚀 I believe technology should be a bridge, not a barrier. I’m constantly looking for that sweet spot where digital experiences feel less like "software" and more like a genuine human connection.<br/><br/>
-💻 My daily craft involves **React** and **JavaScript** with a deep focus on the **Plone/Volto** ecosystem.
-
-> ### The web only works when it works for everyone
-> That is why I am especially committed to Web Accessibility.
-
-👥 Open to collaboration on projects ranging from front-end development to accessibility and innovative tech.<br/>
-
-Let's build something authentic together! 🌟<br/>
+<br />
 
 ---
-[![Skills](https://skillicons.dev/icons?i=js,react,ts,git)](https://skillicons.dev)
 
-### 🚀 Web Dev Tools<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## Stack
+
+[![Skills](https://skillicons.dev/icons?i=js,react,ts,html,css,git)](https://skillicons.dev)
+
+<br />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-830af9?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-### 📦 CMS<br/>
-![Plone](https://img.shields.io/badge/Plone-007BC1?style=for-the-badge&logo=plone&logoColor=white)
+![Plone](https://img.shields.io/badge/Plone-003d73?style=for-the-badge&logo=plone&logoColor=white)
 ![Volto](https://img.shields.io/badge/Volto-3A3A3A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### ⚙️ CI/CD<br/>
 ![GitLab](https://img.shields.io/badge/GitLab-e24328?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🎨 Web Design Tools<br/>
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-
----
-
-### 🔧 And More!<br/>
-![Grunt](https://img.shields.io/badge/Grunt-FAA918?style=for-the-badge&logo=grunt&logoColor=000000)
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-### 🌟 Featured Projects<br/>
-- [🔗 Volto Add-ons](https://github.com/wagner3UB) – Custom add-ons for Plone/Volto.<br/>
-- [🔗 Accessibility Experiments](https://github.com/wagner3UB) – Projects focused on accessible web interfaces.<br/>
-
----
-### Specialized in Web Accessibility and Volto/Plone ecosystems.
-![Metrics](github-metrics.svg)<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wagner3UB&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br>
-![Trophies](https://github-profile-trophy.vercel.app/?username=Wagner3UB&theme=radical&row=1)
+<br />
 
 ---
 
-### 🔗 My Personal Links<br/>
-<a href="https://codepen.io/trezub">CodePen</a> | <a href="https://github.com/Wagner3UB">GitHub</a> | <a href="https://www.linkedin.com/in/wagner-trezub/">Linkedin</a> | <a href="https://www.behance.net/trezub/">Behance</a> 
+## On accessibility
+
+Most tools are built for a hypothetical average user.
+I'm not interested in that person.
+
+Accessibility brought me closer to the people actually using what I build — and that's the part of this job that keeps me here. The web only works when it works for everyone.
+
+<br />
 
 ---
 
-### 📬 Contact Me<br/>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-trezub/)](https://www.linkedin.com/in/wagner-trezub/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/#/im?p=@WagnerTrezub)
+## GitHub
 
+![Metrics](github-metrics.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wagner3UB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Wagner3UB&theme=tokyonight&row=1&no-frame=true)
+
+<br />
+
+---
+
+## Links
+
+<div>
+  <a href="https://www.linkedin.com/in/wagner-trezub/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://codepen.io/trezub">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.behance.net/trezub/">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://web.telegram.org/#/im?p=@WagnerTrezub">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <sub>
+    Brasileiro. Vivo na Itália, trabalho em italiano na empresa e em inglês na comunidade.<br/>
+    Misturo pessoal com profissional e não me arrependo.<br/>
+    Se você chegou até aqui, provavelmente a gente tem algo em comum.
+  </sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a90d9,100:1a1a2e&height=100&section=footer" />
 </div>
