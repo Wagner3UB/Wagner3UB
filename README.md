@@ -77,7 +77,7 @@ Accessibility brought me closer to the people actually using what I build, and t
   </a>
   &nbsp;
   <a href="mailto:trezub.w@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/trezub.w@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/trezub.w@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   &nbsp;
   <a href="https://web.telegram.org/#/im?p=@WagnerTrezub">
