@@ -49,6 +49,7 @@ My current home is the Volto/Plone ecosystem. I work on the io-Comune theme at R
 ![Volto](https://img.shields.io/badge/Volto-3A3A3A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GitLab](https://img.shields.io/badge/GitLab-e24328?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 <br />
 
@@ -75,12 +76,8 @@ Accessibility brought me closer to the people actually using what I build, and t
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://codepen.io/trezub">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.behance.net/trezub/">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  <a href="mailto:trezub.w@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/trezub.w@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://web.telegram.org/#/im?p=@WagnerTrezub">
