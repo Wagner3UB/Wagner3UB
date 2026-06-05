@@ -57,10 +57,9 @@ My current home is RedTurtle Technology, working in the Volto/Plone ecosystem. I
 
 ## On accessibility
 
-Most tools are built for a generic user.
-I'm not interested in that person. <br/>
+Most tools are built for standard users. I'm not interested in creating barriers.<br/>
 I'm interested in EVERYBODY.<br/>
-All of you.
+In all of you.
 
 Accessibility brought me closer to the people actually using what I build, and that's the part of this job that keeps me here.
 <p><b>The web only works when it works for everyone.</b></p>
