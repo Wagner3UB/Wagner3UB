@@ -17,19 +17,19 @@ My current home is the Volto/Plone ecosystem. I work on the io-Comune theme at R
 ## Community
 
 <div>
-  <a href="https://github.com/RedTurtle">
+  <a href="https://github.com/RedTurtle" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/RedTurtle-Developer-c0392b?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://plone.org/foundation">
+  <a href="https://plone.org/foundation" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Plone_Foundation-Member-003d73?style=for-the-badge&logo=plone&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/plone/volto">
+  <a href="https://github.com/plone/volto" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Volto-Core_Team-00b4d8?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/plone/volto">
+  <a href="https://github.com/plone/volto" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/Wagner3UB/Wagner3UB/main/badges/a11y.svg" alt="Volto a11y Team" height="28" />
   </a>
 </div>
