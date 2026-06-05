@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a90d9&height=180&section=header&text=Wagner%20Trezub&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Volto%20Core%20Team%20%7C%20Plone%20Foundation&descSize=16&descAlignY=58&descColor=b0c4de" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a90d9&height=180&section=header&text=Wagner%20Trezub&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Volto%20accessibility%20team%20%7C%20Volto%20Core%20Team%20%7C%20Plone%20Foundation%20member&descSize=16&descAlignY=58&descColor=b0c4de" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=4a90d9&vCenter=true&width=620&height=40&lines=I+build+interfaces.;The+web+only+works+when+it+works+for+everyone.;Volto+Core+Team+%7C+Plone+Foundation+Member.)](https://git.io/typing-svg)
@@ -40,10 +40,6 @@ My current home is the Volto/Plone ecosystem. I work on the io-Comune theme at R
 
 ## Stack
 
-[![Skills](https://skillicons.dev/icons?i=js,react,ts,html,css,git)](https://skillicons.dev)
-
-<br />
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -60,22 +56,13 @@ My current home is the Volto/Plone ecosystem. I work on the io-Comune theme at R
 
 ## On accessibility
 
-Most tools are built for a hypothetical average user.
-I'm not interested in that person.
+Most tools are built for a generic user.
+I'm not interested in that person. <br/>
+I'm interested in EVERYBODY.<br/>
+All of you.
 
-Accessibility brought me closer to the people actually using what I build — and that's the part of this job that keeps me here. The web only works when it works for everyone.
-
-<br />
-
----
-
-## GitHub
-
-![Metrics](github-metrics.svg)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wagner3UB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Wagner3UB&theme=tokyonight&row=1&no-frame=true)
+Accessibility brought me closer to the people actually using what I build, and that's the part of this job that keeps me here.
+<p><b>The web only works when it works for everyone.</b></p>
 
 <br />
 
