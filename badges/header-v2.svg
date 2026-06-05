@@ -1,18 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-label="Wagner Trezub - Front-end Developer">
   <title>Wagner Trezub</title>
+  <style>
+    @keyframes wave1 {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-900px); }
+    }
+    @keyframes wave2 {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-900px); }
+    }
+    .wave1 { animation: wave1 9s linear infinite; }
+    .wave2 { animation: wave2 6s linear infinite; }
+  </style>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d2818"/>
       <stop offset="100%" stop-color="#52b788"/>
     </linearGradient>
+    <clipPath id="clip">
+      <rect width="900" height="180"/>
+    </clipPath>
   </defs>
 
   <!-- Background -->
   <rect width="900" height="180" fill="url(#bg)"/>
 
-  <!-- Wave at bottom -->
-  <path d="M0,140 C150,180 300,110 450,145 C600,180 750,120 900,150 L900,180 L0,180 Z" fill="#40916c" opacity="0.3"/>
-  <path d="M0,155 C200,130 400,175 600,150 C750,132 850,160 900,165 L900,180 L0,180 Z" fill="#52b788" opacity="0.5"/>
+  <!-- Animated waves -->
+  <g clip-path="url(#clip)">
+    <path class="wave1"
+      d="M0,140 C150,180 300,110 450,145 C600,180 750,120 900,150 C1050,180 1200,110 1350,145 C1500,180 1650,120 1800,150 L1800,180 L0,180 Z"
+      fill="#1b4332" opacity="0.7"/>
+    <path class="wave2"
+      d="M0,155 C200,130 400,175 600,150 C750,132 850,160 900,165 C1100,130 1300,175 1500,150 C1650,132 1750,160 1800,165 L1800,180 L0,180 Z"
+      fill="#2d6a4f" opacity="0.9"/>
+  </g>
 
   <!-- Name -->
   <text x="48" y="78"
