@@ -1,6 +1,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/Wagner3UB/Wagner3UB/main/badges/header.svg" alt="Wagner Trezub - Front-end Developer | Volto accessibility team | Volto Core Team | Plone Foundation member" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=4a90d9&vCenter=true&width=620&height=40&lines=I+build+interfaces.;The+web+only+works+when+it+works+for+everyone.;Volto+Core+Team+%7C+Plone+Foundation+Member.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=52b788&vCenter=true&width=620&height=40&lines=I+build+interfaces.;The+web+only+works+when+it+works+for+everyone.;Volto+Core+Team+%7C+Plone+Foundation+Member.)](https://git.io/typing-svg)
 
 <br />
 
@@ -97,5 +97,5 @@ Accessibility brought me closer to the people with real necessities inside this 
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a90d9,100:1a1a2e&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,100:0d2818&height=100&section=footer" />
 </div>
