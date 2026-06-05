@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a90d9&height=180&section=header&text=Wagner%20Trezub&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Volto%20accessibility%20team%20%7C%20Volto%20Core%20Team%20%7C%20Plone%20Foundation%20member&descSize=16&descAlignY=58&descColor=b0c4de" />
 </div>
 
