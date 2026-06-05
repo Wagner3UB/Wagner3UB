@@ -89,7 +89,7 @@ Accessibility brought me closer to the people actually using what I build, and t
 
 ---
 
-<div align="center">
+<div>
   <sub>
     Brasileiro. Vivo na Itália por opção.<br/>
     Misturo pessoal com profissional, 8h de convivência não são para serem jogadas fora. Não me arrependo.<br/>
