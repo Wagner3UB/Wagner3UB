@@ -6,9 +6,9 @@
 
 <br />
 
-I build interfaces. Front-end developer focused on making the web usable by everyone — not just most people.
+I build interfaces. Front-end developer focused on making the web usable by everyone, not just most people.
 
-My current home is the Volto/Plone ecosystem. I work on the io-Comune theme at RedTurtle, and I'm part of the Volto core team and the Plone Foundation. A few years ago I started pushing accessibility as a real topic inside Volto — not a checklist item, but a design principle. That conversation is still going.
+My current home is RedTurtle Technology, working in the Volto/Plone ecosystem. I'm part of the Volto Accessibility and Core team in the Plone Foundation. A few years ago I started pushing accessibility as a real topic inside Volto, not a checklist item, but a design principle. That conversation is still going.
 
 <br />
 
